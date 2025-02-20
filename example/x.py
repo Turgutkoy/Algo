@@ -7,3 +7,4 @@ def tri_area(a,b):
 print(tri_area(a,b))
 
 turgut=10
+hüseyin=5
